@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.maindiv{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.text-div{
+    margin-top: -140px;
+    
+    
+}
+#p1, #p2{
+    font-size: 40px;
+    color: orangered;
+    font-weight: bolder;
+}
+img {
+    height: 200px;
+    width: 900px;
+    border-radius: 40px;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: lightyellow;
+    
+   
+}
